@@ -1,4 +1,3 @@
-script.js:
 // ============ STATE ============
 const state = {
   currentPage: 'home',
